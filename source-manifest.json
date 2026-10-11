@@ -7,7 +7,7 @@
     },
     "hisar": {
       "repository": "https://github.com/spedatox/hisar",
-      "commit": "b8c6033427b2d755d2104f162f5117fe0286691a"
+      "commit": "8c2b8215381d93b187d69ef95371db2dc265fbcf"
     }
   },
   "files": [
@@ -129,7 +129,7 @@
       "path": "src/hisar/server/library.py",
       "project": "hisar",
       "original_path": "server/library.py",
-      "sha256": "88cfbb48cc8c9356679e8967145e7fcba28be84d60a5c604eaf6263da871b616"
+      "sha256": "93317ca7ffa85d50ba9b2021df1f26d0a9c2a7bc3bcefd2413202cf59bc2fd8b"
     },
     {
       "path": "src/hisar/server/library_models.py",
@@ -177,7 +177,7 @@
       "path": "verification/hisar/test_library.py",
       "project": "hisar",
       "original_path": "tests/test_library.py",
-      "sha256": "3dc67de0b091c8a052a688e0261f6e900ca4f5a817d408fa155ac098551ee9d2"
+      "sha256": "b0f458fadbde54f852906c88fba3f51b0965f5841bd442a2c79c0609a251dd96"
     }
   ]
 }

@@ -67,7 +67,7 @@ Screenshots use an isolated local vault and synthetic records. The OCR status sh
 
 ## Verification
 
-The integrated change passed **32 Iacon behavior tests**, **6 configuration tests**, **86 Hisar tests**, the Vite production build and a cross-service API rehearsal. The rehearsal exercises real uploads, the durable queue, a simulated restart, hash verification, Turkish keyword retrieval, citations, edition replacement, live access revocation, authenticated owner settings and retry delivery. Five pre-existing Windows symlink tests require privileges unavailable in the local test environment.
+The integrated change passed **32 Iacon behavior tests**, **6 configuration tests**, **87 Hisar tests**, the Vite production build and a cross-service API rehearsal. The rehearsal exercises real uploads, the durable queue, a simulated restart, hash verification, Turkish keyword retrieval, citations, edition replacement, live access revocation, authenticated owner settings and retry delivery. A regression test also preserves the original catalog's global access policy while denying unknown policies without breaking a mixed resolution batch. Five pre-existing Windows symlink tests require privileges unavailable in the local test environment.
 
 Native Tesseract execution and a live embedding provider were not exercised locally. OCR and semantic batch behavior have controlled test doubles. This snapshot's CI checks source hashes and Python syntax; runtime tests execute within the parent projects.
 
