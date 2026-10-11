@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "projects": {
+    "speda": {
+      "repository": "https://github.com/spedatox/speda-mark6",
+      "commit": "19ed8399e97661316f4d5273c4e494985d9b1d23"
+    },
+    "hisar": {
+      "repository": "https://github.com/spedatox/hisar",
+      "commit": "b8c6033427b2d755d2104f162f5117fe0286691a"
+    }
+  },
+  "files": [
+    {
+      "path": "src/igor/app/services/library.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library.py",
+      "sha256": "37af79d42f17ed5cd68a73df79de423f4da81d164bff7a98c4a8908e0b497299"
+    },
+    {
+      "path": "src/igor/app/services/library_indexer.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library_indexer.py",
+      "sha256": "6132341c6adbe556fec4d0919de73f7a53d94e3e2138aa2ff18c1641ce30b351"
+    },
+    {
+      "path": "src/igor/app/services/library_controls.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library_controls.py",
+      "sha256": "a3dc7649653442cb2d5abb82c1588fce2a2c1b2f54b055f2cd43a1fc659b0616"
+    },
+    {
+      "path": "src/igor/app/services/library_extract.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library_extract.py",
+      "sha256": "58285ac1cc343539093cd4587514c0ca508edb25b710fd01c345ac5fefee3ef2"
+    },
+    {
+      "path": "src/igor/app/services/library_ocr.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library_ocr.py",
+      "sha256": "f2d81820000b2ba94ecebd3e35bc4866a040e629bcdcf6e0f1552af67b4f4dda"
+    },
+    {
+      "path": "src/igor/app/services/library_embeddings.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/library_embeddings.py",
+      "sha256": "7529e83cc85c634dad60eb4bd40772a0dc3ace2748c8ffaa432196f0d606e4ec"
+    },
+    {
+      "path": "src/igor/app/services/hisar_library_client.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/hisar_library_client.py",
+      "sha256": "0d538020403c27d25da2d2354ce91f9c41d7ee9e508766763acd76d092c66578"
+    },
+    {
+      "path": "src/igor/app/services/lexical.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/services/lexical.py",
+      "sha256": "508eb730cea4a95a591eea71b6b84364cfb4fd6adc5d57481b10d0a20261ca83"
+    },
+    {
+      "path": "src/igor/app/models/library.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/models/library.py",
+      "sha256": "9d195e3fa9017970408d3816debbe9ac11a2496322c537234bc28184dd67b9d4"
+    },
+    {
+      "path": "src/igor/app/schemas/library.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/schemas/library.py",
+      "sha256": "fe75a074432ed421076f21390361a4d1caba91e6123b6e7893735a1cf6b83bf3"
+    },
+    {
+      "path": "src/igor/app/routers/library.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/routers/library.py",
+      "sha256": "e693b5ee9ac97d21b988bfb76e648af805d9a7a1c9e46dc1405e30202fbd5ac4"
+    },
+    {
+      "path": "src/igor/app/skills/library.py",
+      "project": "speda",
+      "original_path": "packages/igor/app/skills/library.py",
+      "sha256": "edf928018bdd0652e6fe4300f6a40edc70150750a50244da48cacb6fd5429a71"
+    },
+    {
+      "path": "integration/agent-memory-protocol.md",
+      "project": "speda",
+      "original_path": "packages/igor/app/prompts/core/08_memory.md",
+      "sha256": "67c5b8c36639067248a881e12173b4126e7396a652baedf61fc58956261dbc33"
+    },
+    {
+      "path": "verification/verify_iacon.py",
+      "project": "speda",
+      "original_path": "packages/igor/scripts/verify_iacon.py",
+      "sha256": "9261b4e0740cb006ebca3c1017a9257d6ff28fd628de3a358404c17da1b260ab"
+    },
+    {
+      "path": "integration/n8n/iacon_reconcile.json",
+      "project": "speda",
+      "original_path": "packages/igor/scripts/n8n/iacon_reconcile.json",
+      "sha256": "1fef1770c3ea21d6ef7dcc4943034375fe3e28773bb0cf435f1289dd61938373"
+    },
+    {
+      "path": "verification/test_library_hall_records.py",
+      "project": "speda",
+      "original_path": "packages/igor/tests/test_library_hall_records.py",
+      "sha256": "7e6653f31f49760f5dccd1c805a8e704c5707cc2d20b956578d76d6e3c5fa813"
+    },
+    {
+      "path": "docs/INTEGRATION.md",
+      "project": "speda",
+      "original_path": "docs/IACON_HALL_OF_RECORDS.md",
+      "sha256": "55fc8b2b0b52726a7bc5794b143018d882ff4fe74c781c574efb0b65867380ce"
+    },
+    {
+      "path": "licenses/SPEDA-AGPL-3.0.txt",
+      "project": "speda",
+      "original_path": "LICENSE",
+      "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+    },
+    {
+      "path": "assets/optimus-glass.svg",
+      "project": "speda",
+      "original_path": "logos/svg/optimus-glass.svg",
+      "sha256": "9dcc7ca79a8563a9181758932841fc05b5e7462d7b398315f75cc7e2917487a0"
+    },
+    {
+      "path": "src/hisar/server/library.py",
+      "project": "hisar",
+      "original_path": "server/library.py",
+      "sha256": "88cfbb48cc8c9356679e8967145e7fcba28be84d60a5c604eaf6263da871b616"
+    },
+    {
+      "path": "src/hisar/server/library_models.py",
+      "project": "hisar",
+      "original_path": "server/library_models.py",
+      "sha256": "2265a9844d9c619153c009a657ba69f894901a47868115abeedff92673fdf92b"
+    },
+    {
+      "path": "src/hisar/server/library_routes.py",
+      "project": "hisar",
+      "original_path": "server/library_routes.py",
+      "sha256": "02716406e0cfd0eb90b5de0efdef05d2fd264d68d3ea20774feb40de84647c27"
+    },
+    {
+      "path": "src/hisar/server/library_delivery.py",
+      "project": "hisar",
+      "original_path": "server/library_delivery.py",
+      "sha256": "8843ac317f2922c04fc27e7902524beb67e6c37b1e0f0b7106028686bda005d8"
+    },
+    {
+      "path": "src/hisar/HallOfRecords.jsx",
+      "project": "hisar",
+      "original_path": "HallOfRecords.jsx",
+      "sha256": "1bae219c4ec8cab08d29203c42a9ee2ad715d9a8bc6892fd20019fa21d14221e"
+    },
+    {
+      "path": "src/hisar/IaconSettings.jsx",
+      "project": "hisar",
+      "original_path": "IaconSettings.jsx",
+      "sha256": "d9ed096940120fb5da9b3890b7b4a3e126d52addc91c56028a6e4c3b82615b6c"
+    },
+    {
+      "path": "src/hisar/iacon.css",
+      "project": "hisar",
+      "original_path": "iacon.css",
+      "sha256": "bfb01b1c02c8b7ce8d6281438f12db564761ae140cd23c178fc81b3e7afd68df"
+    },
+    {
+      "path": "src/hisar/public/optimus.svg",
+      "project": "hisar",
+      "original_path": "public/optimus.svg",
+      "sha256": "adf08b9f8af78b5ee42e4f69f13524bdce375cf9b46a936be856a96ac3f0aad3"
+    },
+    {
+      "path": "verification/hisar/test_library.py",
+      "project": "hisar",
+      "original_path": "tests/test_library.py",
+      "sha256": "3dc67de0b091c8a052a688e0261f6e900ca4f5a817d408fa155ac098551ee9d2"
+    }
+  ]
+}
